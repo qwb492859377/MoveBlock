@@ -1,0 +1,7 @@
+E:\C#\game\MoveBlock\源码\MoveBlock\bin\Debug\MoveBlock.exe
+E:\C#\game\MoveBlock\源码\MoveBlock\bin\Debug\MoveBlock.pdb
+E:\C#\game\MoveBlock\源码\MoveBlock\obj\x86\Debug\MoveBlock.Form_main.resources
+E:\C#\game\MoveBlock\源码\MoveBlock\obj\x86\Debug\MoveBlock.Properties.Resources.resources
+E:\C#\game\MoveBlock\源码\MoveBlock\obj\x86\Debug\MoveBlock.csproj.GenerateResource.Cache
+E:\C#\game\MoveBlock\源码\MoveBlock\obj\x86\Debug\MoveBlock.exe
+E:\C#\game\MoveBlock\源码\MoveBlock\obj\x86\Debug\MoveBlock.pdb
